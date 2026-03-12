@@ -1,4 +1,4 @@
-# HSTU 生成式推荐模型复现与实践
+# HSTU 生成式推荐模型复现（基于Keras）
 
 从零复现并实现 Meta 最新提出的 HSTU（Hierarchical Sequential Transduction Unit）推荐模型，完整覆盖数据预处理、模型构建、训练评估与推理优化全流程。
 
